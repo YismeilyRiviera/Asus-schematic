@@ -1,5 +1,7 @@
 # Asus-schematic
 
+<img src="https://github.com/YismeilyRiviera/Asus-schematic/blob/main/as.png"/>
+
 🔥🔥🔥 **About this manual**
 
 ___
@@ -24,3 +26,4 @@ This chapter provides an overview of using Windows®  in your Notebook PC
 
 This chapter shows you how to use POST to change the settings of your Notebook PC
 
+<img src="https://github.com/YismeilyRiviera/Asus-schematic/blob/main/dl.png"/>
